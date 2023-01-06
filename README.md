@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently a freelancer<br>👯 I'm looking to collaborate on web development and mobile app<br>🤝 React, React Native, NodeJs, Angular,Python I'm Coding<br>🌱 I’m currently learning C#,Asp.Net Core, ThreeJs<br>
+🔭 I am currently a freelancer<br>👯 I'm looking to collaborate on web development and mobile app<br>🤝 Javascript,React, React Native, NodeJs, Angular,Python I'm Coding<br>🌱 I’m currently learning C#,Asp.Net Core, ThreeJs<br>
 
 
 ## 🌐 Socials:
